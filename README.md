@@ -10,7 +10,7 @@ I'm currently working as a <b>BackEnd Developer</b> in Ilsan.
 <!-- - 📱  interesting on [Android](https://github.com/jogilsang/manual-android/tree/master/0.Android) -->
 - 🌱 Interesting on [BackEnd](https://github.com/sksmsdlskgus)  
 - 🐳 My MBTI is ENTJ
-- 🤙 This is my [Blog](https://blog.naver.com/) 
+- 🤙 This is my [Blog](https://velog.io/@lnh03280) 
 - 💬 Give me Question [Click](https://github.com/sksmsdlskgus) 
 
 
