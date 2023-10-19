@@ -40,7 +40,5 @@ I'm sharing my [inspiration](https://blog.naver.com/) on the subject below.
 |5. Collaboration and Tools|<code><img alt = "5.1 JIRA" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png"> <a href="https://github.com/jogilsang/manual-jira">JIRA</a></code> <code><img alt = "5.2 Confluence" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"> Confluence</code> <code><img alt = "5.3 Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png"> <a href="https://github.com/jogilsang/manual-slack">Slack</a></code>|
 <br>
 <br>
-<br>
-
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
