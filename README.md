@@ -13,6 +13,7 @@ I'm currently working as a <b>BackEnd Developer</b> in Ilsan.
 - 🤙 This is my [Blog](https://velog.io/@lnh03280) 
 - 💬 Give me Question [Click](https://github.com/sksmsdlskgus) 
 
+🕹️ 넥슨 게임 개발 참여 [GAME PLAY] : https://maplestoryworlds.nexon.com/ko/play/de75414104154cd2a37eb13cae3c11d7/comment
 
 ---
 
@@ -41,6 +42,5 @@ I'm sharing my [inspiration](https://blog.naver.com/) on the subject below.
 <br>
 <br>
 
-🕹️ 넥슨 게임 개발 참여 [GAME PLAY] : https://maplestoryworlds.nexon.com/ko/play/de75414104154cd2a37eb13cae3c11d7/comment
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
