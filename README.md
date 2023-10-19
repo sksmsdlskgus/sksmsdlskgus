@@ -11,7 +11,7 @@ I'm currently working as a <b>BackEnd Developer</b> in Ilsan.
 - 🌱 Interesting on [BackEnd](https://github.com/sksmsdlskgus)  
 - 🐳 My MBTI is ENTJ
 - 🤙 This is my [Blog](https://velog.io/@lnh03280) 
-- 💬 Give me Question [Click](https://github.com/sksmsdlskgus) 
+- 💬 Give me Question [ lnh5963@naver.com ]
 
 🕹️ 넥슨 게임 개발 참여 [GAME PLAY] : https://maplestoryworlds.nexon.com/ko/play/de75414104154cd2a37eb13cae3c11d7/comment
 
