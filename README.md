@@ -41,4 +41,4 @@ I'm sharing my [inspiration](https://blog.naver.com/) on the subject below.
 <br>
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=180)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=180&section=footer)
