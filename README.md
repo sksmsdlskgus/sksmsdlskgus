@@ -41,4 +41,4 @@ I'm sharing my [inspiration](https://blog.naver.com/) on the subject below.
 <br>
 <br>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=180)
