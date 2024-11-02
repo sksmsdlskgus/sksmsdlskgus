@@ -20,11 +20,11 @@ I'm currently working as a <b>BackEnd Developer</b> in Ilsan.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sksmsdlskgus&line_height=24&hide_rank=true&&layout=compact&theme=white)](https://github.com/sksmsdlskgus/sksmsdlskgus)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksmsdlskgus&layout=compact&langs_count=8&theme=white)](https://github.com/sksmsdlskgus?tab=repositories&q=&type=&language=java&sort=)
 
-<!-- IDE의 활동이 기록 -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sksmsdlskgus)](https://wakatime.com/@sksmsdlskgus)
+<!-- IDE의 활동이 기록 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sksmsdlskgus)](https://wakatime.com/@sksmsdlskgus)-->
 
-<!-- 배경화면 트로피 설정 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=sksmsdlskgus&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- 배경화면 트로피 설정 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sksmsdlskgus&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ---
 
