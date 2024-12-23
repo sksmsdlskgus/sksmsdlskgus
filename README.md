@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:F7FBFC,50:A7C5EB,100:6A8EAE&height=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:000080,50:1E3A5F,100:4B6B8C&height=20)
 
 
 # 👩‍💻 Nahyeon Lee (ENTJ)  
@@ -52,4 +52,4 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=0:F7FBFC,50:A7C5EB,100:6A8EAE&height=60)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=0:000080,50:1E3A5F,100:4B6B8C&height=20)
