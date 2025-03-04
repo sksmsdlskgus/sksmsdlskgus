@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:000080,50:1E3A5F,100:4B6B8C&height=20)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:FFC0CB,50:D8BFD8,100:B19CD9&height=30)
 
 
 # 👩‍💻 Nahyeon Lee (ENTJ)  
@@ -36,7 +36,8 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white) 
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=flat-square&logo=slack&logoColor=white)  
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)  ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=flat-square&logo=jira&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+
 
 
 ---
@@ -50,6 +51,4 @@
 - 🕹️ **[Nexon Game Development](https://maplestoryworlds.nexon.com/ko/play/de75414104154cd2a37eb13cae3c11d7/comment)**  
   *Developed and optimized gaming features for Nexon.*  
 
----
-
-![footer](https://capsule-render.vercel.app/api?type=soft&color=0:000080,50:1E3A5F,100:4B6B8C&height=20)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=0:FFC0CB,50:D8BFD8,100:B19CD9&height=30)
