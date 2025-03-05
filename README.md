@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0:FFC0CB,50:D8BFD8,100:B19CD9&height=30)
 
 
-# 👩‍💻 Nahyeon Lee (ENTJ)  
+# 👩‍💻 Nahyeon Lee  
 ### 🚀 Back-End Developer | Ilsan, Republic of Korea  
 
 ---
