@@ -38,7 +38,11 @@
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=flat-square&logo=slack&logoColor=white)  
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)  ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=flat-square&logo=jira&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
+#### **CI/CD**  
 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&logo=jenkins&color=lightgrey)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&logo=kubernetes&logoColor=white)
 
 ---
 
